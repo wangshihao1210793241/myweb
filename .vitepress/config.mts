@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // 部署路径（GitHub Pages 仓库名）
+  base: '/myweb/',
+
   // 网站标题
   title: '码农脱贫',
   // 网站描述（搜索引擎用）
