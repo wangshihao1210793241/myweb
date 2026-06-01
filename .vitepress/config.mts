@@ -4,6 +4,9 @@ export default defineConfig({
   // 部署路径（GitHub Pages 仓库名）
   base: '/myweb/',
 
+  // 忽略死链接检查（README 中的 localhost 地址）
+  ignoreDeadLinks: true,
+
   // 网站标题
   title: '码农脱贫',
   // 网站描述（搜索引擎用）
