@@ -48,7 +48,7 @@ export default defineConfig({
           text: '从0开始学习AI编程',
           items: [
             { text: '0.入门指南', link: '/posts/ai/ai-programming-start' },
-            { text: '1.Claude Code安装指南', link: '/posts/ai/ClaudeCodeInstallGuide' },
+            { text: '1.Claude Code安装指南', link: '/posts/ai/claude-code-install-guide' },
             { text: '2.Java 程序员用 Claude Code 写代码踩过的坑', link: '/posts/ai/java-claude-code-guide' },
           ],
         },
