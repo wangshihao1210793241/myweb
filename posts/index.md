@@ -17,7 +17,7 @@
 ## 从0开始学习AI编程
 
 - [入门指南](./ai/ai-programming-start)
-- [Claude Code安装指南](./ai/ClaudeCodeinstallGuide)
+- [Claude Code安装指南](./ai/ClaudeCodeInstallGuide)
 - [Java 程序员用 Claude Code 写代码踩过的坑,我全帮你总结好了](./ai/java-claude-code-guide)
 
  
