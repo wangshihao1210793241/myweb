@@ -29,19 +29,27 @@ export default defineConfig({
         {
           text: 'Java',
           items: [
-            { text: 'Java Stream 实战技巧', link: '/posts/java-stream' },
+            { text: 'Java Stream 实战技巧', link: '/posts/java/java-stream' },
           ],
         },
         {
           text: 'Vue',
           items: [
-            { text: 'Vue 快速入门指南', link: '/posts/vue-quick-start' },
+            { text: 'Vue 快速入门指南', link: '/posts/vue/vue-quick-start' },
           ],
         },
         {
           text: 'Python',
           items: [
-            { text: 'Python 基础笔记', link: '/posts/python-basics' },
+            { text: 'Python 基础笔记', link: '/posts/python/python-basics' },
+          ],
+        },
+        {
+          text: '从0开始学习AI编程',
+          items: [
+            { text: '0.入门指南', link: '/posts/ai/ai-programming-start' },
+            { text: '1.Claude Code安装指南', link: '/posts/ai/ClaudeCodeinstallGuide' },
+            { text: '2.Java 程序员用 Claude Code 写代码踩过的坑', link: '/posts/ai/java-claude-code-guide' },
           ],
         },
       ],
